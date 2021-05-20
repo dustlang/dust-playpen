@@ -4,7 +4,7 @@ hosted at <https://play.rust-lang.org/>, check out the
 
 # Old README
 
-A web interface for running Rust code.
+A web interface for running Dust code.
 
 The interface can also be accessed in most Rust-related channels on
 `irc.mozilla.org`.
